@@ -15,6 +15,10 @@ To write a program to predict the type of species of the Iris flower using the S
 
 ## Program:
 ```
+Devloped by: V. Anisha
+Register Number: 212224040023
+
+
 import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
